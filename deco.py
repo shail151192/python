@@ -10,8 +10,14 @@ wrapper(*args, **kwargs):
 
 @calculateTime
 def printNumber(a):
-    print 'Hi', a
+    print 'Hi', 
     print "hello world"
+<<<<<<< HEAD
     print "this is master"
     print "no "    
+=======
+    print "this is dev branch"
+    print "no "
+    print "cherry pic changes"
+>>>>>>> ff98883... cherry pic changes
 printNumber(100)
