@@ -11,4 +11,5 @@ wrapper(*args, **kwargs):
 @calculateTime
 def printNumber(a):
     print 'Hi', a
+    
 printNumber(100)
