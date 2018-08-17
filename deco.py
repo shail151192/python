@@ -11,5 +11,6 @@ wrapper(*args, **kwargs):
 @calculateTime
 def printNumber(a):
     print 'Hi', a
-    
+
+    print "no "    
 printNumber(100)
