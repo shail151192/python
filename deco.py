@@ -12,5 +12,4 @@ wrapper(*args, **kwargs):
 def printNumber(a):
     print 'Hi', a
 
-
 printNumber(100)
